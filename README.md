@@ -12,7 +12,7 @@
 
 ```
 	dependencies {
-	        implementation 'com.github.alsheikhaminulislam:AdmobNativeteAds:Tag'
+	        implementation 'com.github.alsheikhaminulislam:AdmobNativeteAds:1.0.0'
 	}
 ```
 
