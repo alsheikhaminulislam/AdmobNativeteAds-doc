@@ -12,8 +12,11 @@
 
 ```
 	dependencies {
-	        implementation 'com.github.alsheikhaminulislam:AdmobNativeteAds:1.0.0'
+	        implementation files("libs/admobnativeteads-1.0.0.aar")
 	}
+```
+```
+  implementation files("libs/admobnativeteads-1.0.0.aar")
 ```
 
 > Step 3
